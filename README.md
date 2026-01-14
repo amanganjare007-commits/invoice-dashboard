@@ -1,3 +1,6 @@
+# invoice-dashboard
+# MSME Invoice Management Dashboard
+ This project is built using React and Tailwind CSS.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -15,7 +18,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-# MSME Invoice Management Dashboard
+## MSME Invoice Management Dashboard
 
 A React-based invoice management dashboard built as part of the **QistonPe Front-End Developer Intern Assignment**.  
 This application helps MSME business owners track invoices, payments, and cash flow at a glance.
